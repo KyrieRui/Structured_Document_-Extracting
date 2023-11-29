@@ -1,0 +1,179 @@
+[
+  {
+    "ocr": "\/data\/upload\/6\/e1b02bcd-01.png",
+    "id": 1,
+    "bbox": [
+      {
+        "x": 4.786641929499072,
+        "y": 2.5174825174825175,
+        "width": 53.02126444983588,
+        "height": 6.8531468531468525,
+        "rotation": 0,
+        "original_width": 882,
+        "original_height": 774
+      },
+      {
+        "x": 29.210789210789205,
+        "y": 23.916083916083917,
+        "width": 45.779934351362925,
+        "height": 5.734265734265733,
+        "rotation": 0,
+        "original_width": 882,
+        "original_height": 774
+      }
+    ],
+    "label": [
+      {
+        "x": 4.786641929499072,
+        "y": 2.5174825174825175,
+        "width": 53.02126444983588,
+        "height": 6.8531468531468525,
+        "rotation": 0,
+        "labels": [
+          "Label 2"
+        ],
+        "original_width": 882,
+        "original_height": 774
+      },
+      {
+        "x": 29.210789210789205,
+        "y": 23.916083916083917,
+        "width": 45.779934351362925,
+        "height": 5.734265734265733,
+        "rotation": 0,
+        "labels": [
+          "Label 1"
+        ],
+        "original_width": 882,
+        "original_height": 774
+      }
+    ],
+    "transcription": [
+      "Full name: PETER ALLAN NOAD",
+      "Email: noadies@xtra.co.nz"
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2023-11-28T21:52:33.946856Z",
+    "updated_at": "2023-11-28T21:53:07.371461Z",
+    "lead_time": 62.225
+  },
+  {
+    "ocr": "\/data\/upload\/6\/b91ff0ad-02.png",
+    "id": 2,
+    "bbox": [
+      {
+        "x": 26.671717740531797,
+        "y": 22.377622377622377,
+        "width": 23.577798482630108,
+        "height": 5.454545454545453,
+        "rotation": 0,
+        "original_width": 1366,
+        "original_height": 1042
+      },
+      {
+        "x": 6.294525386765505,
+        "y": 0.5594405594405595,
+        "width": 77.98810267331498,
+        "height": 5.734265734265735,
+        "rotation": 0,
+        "original_width": 1366,
+        "original_height": 1042
+      }
+    ],
+    "label": [
+      {
+        "x": 26.671717740531797,
+        "y": 22.377622377622377,
+        "width": 23.577798482630108,
+        "height": 5.454545454545453,
+        "rotation": 0,
+        "labels": [
+          "Label 1"
+        ],
+        "original_width": 1366,
+        "original_height": 1042
+      },
+      {
+        "x": 6.294525386765505,
+        "y": 0.5594405594405595,
+        "width": 77.98810267331498,
+        "height": 5.734265734265735,
+        "rotation": 0,
+        "labels": [
+          "Label 2"
+        ],
+        "original_width": 1366,
+        "original_height": 1042
+      }
+    ],
+    "transcription": [
+      "Email: -",
+      "Full name: TAMATEA BASIE VIVERS TANGITU"
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2023-11-28T21:54:03.670177Z",
+    "updated_at": "2023-11-28T21:54:03.670191Z",
+    "lead_time": 48.302
+  },
+  {
+    "ocr": "\/data\/upload\/6\/469349c1-03.png",
+    "id": 3,
+    "bbox": [
+      {
+        "x": 6.897189912265289,
+        "y": 2.937062937062937,
+        "width": 35.538063276756745,
+        "height": 5.874125874125875,
+        "rotation": 0,
+        "original_width": 1194,
+        "original_height": 998
+      },
+      {
+        "x": 28.407070316618054,
+        "y": 23.216783216783217,
+        "width": 48.39723090979373,
+        "height": 6.993006993006993,
+        "rotation": 0,
+        "original_width": 1194,
+        "original_height": 998
+      }
+    ],
+    "label": [
+      {
+        "x": 6.897189912265289,
+        "y": 2.937062937062937,
+        "width": 35.538063276756745,
+        "height": 5.874125874125875,
+        "rotation": 0,
+        "labels": [
+          "Label 2"
+        ],
+        "original_width": 1194,
+        "original_height": 998
+      },
+      {
+        "x": 28.407070316618054,
+        "y": 23.216783216783217,
+        "width": 48.39723090979373,
+        "height": 6.993006993006993,
+        "rotation": 0,
+        "labels": [
+          "Label 1"
+        ],
+        "original_width": 1194,
+        "original_height": 998
+      }
+    ],
+    "transcription": [
+      "Full name: Tiffany Ormsby",
+      "Email: ormsbytiffany@gmail.com"
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2023-11-28T21:54:52.743150Z",
+    "updated_at": "2023-11-28T21:54:52.743167Z",
+    "lead_time": 47.065
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "best_metric": 0.0,
+  "best_model_checkpoint": "layoutlm-funsd/checkpoint-19",
+  "epoch": 1.0,
+  "eval_steps": 500,
+  "global_step": 19,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 1.866666666666667e-05,
+      "loss": 0.0,
+      "step": 19
+    },
+    {
+      "epoch": 1.0,
+      "eval_ANSWER": {
+        "f1": 0.0,
+        "number": 809,
+        "precision": 0.0,
+        "recall": 0.0
+      },
+      "eval_HEADER": {
+        "f1": 0.0,
+        "number": 119,
+        "precision": 0.0,
+        "recall": 0.0
+      },
+      "eval_QUESTION": {
+        "f1": 0.0,
+        "number": 1065,
+        "precision": 0.0,
+        "recall": 0.0
+      },
+      "eval_loss": NaN,
+      "eval_overall_accuracy": 0.27504085921083354,
+      "eval_overall_f1": 0.0,
+      "eval_overall_precision": 0.0,
+      "eval_overall_recall": 0.0,
+      "eval_runtime": 5.4577,
+      "eval_samples_per_second": 9.161,
+      "eval_steps_per_second": 1.283,
+      "step": 19
+    }
+  ],
+  "logging_steps": 500,
+  "max_steps": 285,
+  "num_train_epochs": 15,
+  "save_steps": 500,
+  "total_flos": 39205307212800.0,
+  "trial_name": null,
+  "trial_params": null
+}
